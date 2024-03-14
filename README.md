@@ -1,4 +1,4 @@
-# proxmark3_RFID_read_and_clone
+# proxmark3_NFC_read_and_clone
 
 install NFC Tools on your cell phone  
 read tag and write some link
